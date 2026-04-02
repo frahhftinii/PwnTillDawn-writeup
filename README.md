@@ -100,7 +100,7 @@ Submit flag in PwnTillDawn platform.
 
 Result:
 - Flag accepted
-- Achivement unloacked
+- Achievement unlocked
 ![Exploitation](pwn16.jpg)
 
 ## ✅ Conclusion
