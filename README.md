@@ -49,7 +49,7 @@ Check FTP vulnerability:
 nmap -Pn -p21 --script ftp-vsftpd-backdoor 10.150.150.12
 ```
 Result:
-- vulnerable to vsftpd 2.3.4 backdoor
+- Vulnerable to vsftpd 2.3.4 backdoor
 - CVE-2011-2523
 ![Vulnerability](pwn6.jpg)
 
